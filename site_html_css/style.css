@@ -1,0 +1,23 @@
+.bloc-velo-elec{
+   color: brown;
+   border: solid 5px;
+   margin: 50px;
+   padding: 50px;
+   background-color: aquamarine;
+}
+
+h1{
+    color: black;
+}
+
+.bloc-trot-elec{
+    color: blue;
+    border: solid 5px;
+    margin: 50px;
+    padding: 50px;
+    background-image: url(imagevelo.jpg);
+}
+
+h2{
+    color: black;
+}
